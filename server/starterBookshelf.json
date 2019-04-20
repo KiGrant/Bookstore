@@ -1,0 +1,298 @@
+{
+  "wantToRead": [
+    {
+      "id": "qKydDAAAQBAJ",
+      "title": "Add a Pinch",
+      "subtitle": "Easier, Faster, Fresher Southern Classics",
+      "authors": ["Robyn Stone"],
+      "publisher": "Clarkson Potter",
+      "publishedDate": "2017-03-28",
+      "description": "With a foreword by Ree Drummond, this beautiful book has 100 easier, faster, lightened-up Southern recipes, from the blogger behind the popular Add a Pinch website.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780553496420"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0553496425"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 240,
+      "printType": "BOOK",
+      "categories": ["Cooking"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.1.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=qKydDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=qKydDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=qKydDAAAQBAJ&printsec=frontcover&dq=cooking+salmon:intitle&hl=&cd=1&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=qKydDAAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-qKydDAAAQBAJ",
+      "shelf": "wantToRead"
+    },
+    {
+      "id": "A1QoDwAAQBAJ",
+      "title": "Mastering React Native",
+      "authors": ["Eric Masiello", "Jacob Friedmann"],
+      "publisher": "Packt Publishing Ltd",
+      "publishedDate": "2017-01-11",
+      "description": "Leverage frontend development skills to build impressive iOS and Android applications with React Native About This Book Apply flexbox to get layout and build rich animations that bring your React Native application to life Integrate third-party libraries and develop customized components that run natively on iOS and Android platforms Combine React Native with Redux, Redux middleware, and a remote API to build scalable data-driven applications Who This Book Is For This book is for anyone who wants to build cross-platform native mobile applications using only JavaScript and the React Native framework. In particular, this book is especially useful for front-end developers who want to use their current skillset to build mobile applications. An existing working knowledge of JavaScript will help you get the most out of this book. What You Will Learn Implement native React Native components and APIs Explore React's JSX syntax Manage data using Redux and Redux middleware Build applications with React Native on both iOS and Android platforms Perform animations in your applications using the animation APIs Understand routing and Navigator comparison Create your own Native module In Detail React Native has completely revolutionized mobile development by empowering JavaScript developers to build world-class mobile apps that run natively on mobile platforms. This book will show you how to apply JavaScript and other front-end skills to build cross-platform React Native applications for iOS and Android using a single codebase. This book will provide you with all the React Native building blocks necessary to become an expert. We'll give you a brief explanation of the numerous native components and APIs that come bundled with React Native including Images, Views, ListViews, WebViews, and much more. You will learn to utilize form inputs in React Native. You'll get an overview of Facebook's Flux data architecture and then apply Redux to manage data with a remote API. You will also learn to animate different parts of your application, as well as routing using React Native's navigation APIs. By the end of the book, you will be able to build cutting-edge applications using the React Native framework. Style and approach This comprehensive guide will take your React Native skills to the next level. It shows you how to develop a clear workflow to build scalable applications, and how to implement the architectural concepts covered to build applications that shine in the real world.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781785889790"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1785889796"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 496,
+      "printType": "BOOK",
+      "categories": ["Computers"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.1.1.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=A1QoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=A1QoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=A1QoDwAAQBAJ&printsec=frontcover&dq=react:intitle&hl=&cd=3&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=A1QoDwAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-A1QoDwAAQBAJ",
+      "shelf": "wantToRead"
+    },
+    {
+      "id": "aHo3DwAAQBAJ",
+      "title": "The User Experience Team of One",
+      "subtitle": "A Research and Design Survival Guide",
+      "authors": ["Leah Buley"],
+      "publisher": "Rosenfeld Media",
+      "publishedDate": "2013-07-09",
+      "description": "The User Experience Team of One prescribes a range of approaches that have big impact and take less time and fewer resources than the standard lineup of UX deliverables. Whether you want to cross over into user experience or you're a seasoned practitioner trying to drag your organization forward, this book gives you tools and insight for doing more with less.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781933820897"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1933820896"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 246,
+      "printType": "BOOK",
+      "categories": ["Business & Economics"],
+      "averageRating": 4,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=aHo3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=aHo3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=aHo3DwAAQBAJ&printsec=frontcover&dq=fashion:intitle&hl=&cd=6&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=aHo3DwAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-aHo3DwAAQBAJ",
+      "shelf": "wantToRead"
+    }
+  ],
+  "currentlyReading": [
+    {
+      "id": "ppjUtAEACAAJ",
+      "title": "Fullstack React",
+      "subtitle": "The Complete Guide to ReactJS and Friends",
+      "authors": ["Accomazzo Anthony", "Murray Nathaniel", "Lerner Ari"],
+      "publisher": "Fullstack.IO",
+      "publishedDate": "2017-03",
+      "description": "LEARN REACT TODAY The up-to-date, in-depth, complete guide to React and friends. Become a ReactJS expert today",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0991344626"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780991344628"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 836,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ppjUtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ppjUtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ppjUtAEACAAJ&dq=react:intitle&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=ppjUtAEACAAJ&dq=react:intitle&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Fullstack_React.html?hl=&id=ppjUtAEACAAJ",
+      "shelf": "currentlyReading"
+    }
+  ],
+  "read": [
+    {
+      "id": "dgYvDwAAQBAJ",
+      "title": "Eloquent JavaScript, 2nd Ed.",
+      "subtitle": "A Modern Introduction to Programming",
+      "authors": ["Marijn Haverbeke"],
+      "publisher": "No Starch Press",
+      "publishedDate": "2014-12-07",
+      "description": "JavaScript lies at the heart of almost every modern web application, from social apps to the newest browser-based games. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. Eloquent JavaScript, 2nd Edition dives deep into the JavaScript language to show you how to write beautiful, effective code. Author Marijn Haverbeke immerses you in example code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you’ll learn: –The essential elements of programming, including syntax, control, and data –How to organize and clarify your code with object-oriented and functional programming techniques –How to script the browser and make basic web applications –How to use the DOM effectively to interact with browsers –How to harness Node.js to build servers and utilities This edition is thoroughly revised and modernized to reflect the current state of Java\u00adScript and web browsers, with brand-new material, such as a chapter on code performance in Java\u00adScript, and expanded coverage of recursion and closures. All source code is available online in an inter\u00adactive sandbox, where you can edit the code, run it, and see its output instantly. Isn’t it time you became fluent in the language of the Web? Includes an exclusive chapter, only available in the No Starch Press edition!",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781593276614"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1593276613"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 472,
+      "printType": "BOOK",
+      "categories": ["Computers"],
+      "averageRating": 3.5,
+      "ratingsCount": 2,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=dgYvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=dgYvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=dgYvDwAAQBAJ&printsec=frontcover&dq=react:intitle&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=dgYvDwAAQBAJ&dq=react:intitle&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Eloquent_JavaScript_2nd_Ed.html?hl=&id=dgYvDwAAQBAJ",
+      "shelf": "read"
+    },
+    {
+      "id": "YhdU8thA6eEC",
+      "title": "The Godfather Effect",
+      "subtitle": "Changing Hollywood, America, and Me",
+      "authors": ["Tom Santopietro"],
+      "publisher": "Macmillan",
+      "publishedDate": "2012-01-31",
+      "description": "A brilliant examination of our forty year obsession with the classic film trilogy—and a personal reflection on what it means to be Italian-American Forty years and one billion dollars in gross box office receipts after the initial release of The Godfather, Francis Ford Coppola's masterful trilogy continues to fascinate viewers old and new. The Godfather Effect skillfully analyzes the reasons behind this ongoing global phenomenon. Packed with behind-the-scenes anecdotes from all three Godfather films, Tom Santopietro explores the historical origins of the Mob and why they thrived in America, how Italian-Americans are portrayed in the media, and how a saga of murderous gangsters captivated audiences around the globe. Laced with stories about Brando, Pacino, and Sinatra, and interwoven with a funny and poignant memoir about the author's own experiences growing up with an Italian name in an Anglo world of private schools and country clubs, The Godfather Effect is a book for film lovers, observers of American life, and Italians of all nationalities.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781429952620"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1429952628"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 336,
+      "printType": "BOOK",
+      "categories": ["Performing Arts"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.2.2.0.preview.2",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=YhdU8thA6eEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YhdU8thA6eEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=YhdU8thA6eEC&printsec=frontcover&dq=react:intitle&hl=&cd=6&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=YhdU8thA6eEC&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-YhdU8thA6eEC",
+      "shelf": "read"
+    },
+    {
+      "id": "F9wIMQAACAAJ",
+      "title": "Alice's Adventures in Wonderland Lewis Carroll",
+      "authors": ["Lewis Carroll"],
+      "publisher": "Createspace Independent Publishing Platform",
+      "publishedDate": "2016-11-15",
+      "description": "Alice's Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel written by English mathematician Charles Lutwidge Dodgson under the pseudonym Lewis Carroll. It tells of a girl named Alice falling through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures. The tale plays with logic, giving the story lasting popularity with adults as well as with children. It is considered to be one of the best examples of the literary nonsense genre. Its narrative course and structure, characters and imagery have been enormously influential in both popular culture and literature, especially in the fantasy genre.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1540413977"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781540413970"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 38,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=F9wIMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=F9wIMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=F9wIMQAACAAJ&dq=alice+wonderland:intitle&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=F9wIMQAACAAJ&dq=alice+wonderland:intitle&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Alice_s_Adventures_in_Wonderland_Lewis_C.html?hl=&id=F9wIMQAACAAJ",
+      "shelf": "read"
+    }
+  ]
+}
