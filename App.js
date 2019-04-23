@@ -12,7 +12,7 @@ function App() {
       <NativeRouter>
         <NavBar />
         <Switch>
-          {/* <Route exact path="/" component={BookSearch} /> */}
+          <Route exact path="/" component={BookSearch} />
           <Route exact path="/search" component={BookSearch} />
           {/* <Route exact path="/Bookshelf" component={Bookshelf} /> */}
           {/* <Route path="/book/:id" component={Book} /> */}

@@ -1,30 +1,37 @@
-import React, { Component } from "react";
+import React from "react";
 import { View, Text, StyleSheet, TextInput, SafeAreaView } from "react-native";
-// import { Link } from "react-router-native";
-import { AutoGrowTextInput } from "react-native-auto-grow-textinput";
+import { Link } from "react-router-native";
 
-export default class Nav extends Component {
-  render() {
-    return (
-      <SafeAreaView style={styles.container}>
-        <View style={styles.navBar}>
-          <AutoGrowTextInput placeholder="Left" />
-          <AutoGrowTextInput placeholder="Middle" />
-          <AutoGrowTextInput placeholder="Right" />
-        </View>
-      </SafeAreaView>
-    );
+const styles = {
+  container: {
+    display: "flex",
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
+    backgroundColor: "#167FFB"
+  },
+  link: {
+    paddingVertical: 12,
+    paddingHorizontal: 16
+  },
+  text: {
+    fontSize: 20,
+    color: "red"
   }
+};
+
+function NavBar() {
+  console.log(styles.text);
+  return (
+    <View style={styles.container}>
+      <Link to="/" style={styles.link}>
+        <Text style={styles.text}>My BookShelf</Text>
+      </Link>
+      <Link to="/Bookshelf" style={styles.link}>
+        <Text style={styles.text}>Search</Text>
+      </Link>
+    </View>
+  );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1
-  },
-  navBar: {
-    justifyContent: "space-between",
-    flexDirection: "row",
-    flex: 1,
-    marginTop: 20
-  }
-});
+export default NavBar;

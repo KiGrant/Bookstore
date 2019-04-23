@@ -1,25 +1,33 @@
 import React, { Component } from "react";
-import SearchBar from 'react-native-elements';
+import axios from "axios"
+import {
+  View,
+  Text,
+  StyleSheet,
+  TextInput,
+  SafeAreaView,
+  Button
+} from "react-native";
 
 
 export default class SearchBar extends Component {
-  state = {
-    search: '',
-  };
-
-  updateSearch = search => {
-    this.setState({ search });
-  };
-
   render() {
-    const { search } = this.state;
-
     return (
-      <SearchBar
-        placeholder="Type Here..."
-        onChangeText={this.updateSearch}
-        value={search}
-      />
+      <View style={styles.container}>
+    
+      </View>
     );
   }
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1
+  },
+  Bookheader: {
+    justifyContent: "space-between",
+    flexDirection: "row",
+    flex: 1,
+    marginTop: 20
+  }
+});
