@@ -1,20 +1,22 @@
 import React from "react";
 import { NativeRouter, Switch, Route } from "react-router-native";
-import { SafeAreaView, StyleSheet } from "react-native";
-// import BookShelf from "./component/Bookshelf/Bookshelf";
-import Nav from "./src/components/Navbar/Navbar";
+import { SafeAreaView, StyleSheet, Text } from "react-native";
+import BookShelf from "../bookstore/src/components/Bookshelf/Bookshelf";
+import NavBar from "../bookstore/src/components/Navbar/Navbar";
+import BookSearch from "../bookstore/src/components/BookSearch/BookSearch";
+// import Book from "../bookstore/src/components/Book/Book"
 
 function App() {
   return (
     <SafeAreaView style={styles.container}>
       <NativeRouter>
-        <Nav />
-        {/* <Switch> */}
-        {/* <Route exact path="/" component={SearchBooks} /> */}
-        {/* <Route exact path="/search" component={SearchBooks} /> */}
-        {/* <Route exact path="/Bookshelf" component={Bookshelf} /> */}
-        {/* <Route path="/book/:id" component={Book} /> */}
-        {/* </Switch> */}
+        <NavBar />
+        <Switch>
+          {/* <Route exact path="/" component={BookSearch} /> */}
+          <Route exact path="/search" component={BookSearch} />
+          {/* <Route exact path="/Bookshelf" component={Bookshelf} /> */}
+          {/* <Route path="/book/:id" component={Book} /> */}
+        </Switch>
       </NativeRouter>
     </SafeAreaView>
   );

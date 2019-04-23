@@ -23,30 +23,7 @@ import { View, Text } from "react-native";
 //         });
 //       });
 //   };
-//   render() {
-//     if (this.state.isLoading)
-//       return (
-//         <view>
-//           <text>Hello</text>
-//         </view>
-//       );
-//     if (this.state.hasError)
-//       return (
-//         <view>
-//           <text>Error</text>
-//         </view>
-//       );
-
-//     return (
-//       <view>
-//         <text>
-//           <h1>My Bookshelf</h1>
-//         </text>
-//       </view>
-//     );
-//   }
-// }
-
+//   
 function BookShelf() {
   return (
     <View>

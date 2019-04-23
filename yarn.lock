@@ -5005,6 +5005,11 @@ react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.3, react-is
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
+react-native-auto-grow-textinput@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/react-native-auto-grow-textinput/-/react-native-auto-grow-textinput-1.2.1.tgz#46e22d4792d431fddccf99337f5c09edb5922170"
+  integrity sha512-PHF5TBUQ1e1+DA1i9LvlaEPtzAWzGwxj7Tg01F84WkDQxNxUTscigMOTNW+CrpgbLHznin1bdo9iPKFt8Nt8kw==
+
 react-native-elements@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/react-native-elements/-/react-native-elements-1.1.0.tgz#f99bcda4459a886f3ab4591c684c099d37aedf2b"
@@ -5017,6 +5022,11 @@ react-native-elements@^1.1.0:
     prop-types "^15.5.8"
     react-native-ratings "^6.3.0"
     react-native-status-bar-height "^2.2.0"
+
+react-native-floating-label-text-input@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/react-native-floating-label-text-input/-/react-native-floating-label-text-input-0.1.5.tgz#7592171d8ef590b64a821741dabc00c5653e2e8a"
+  integrity sha512-/MCJn5f2s6BaL4KOTEYbDHj81bgXClXO4zXarCceO7jX1VaU1cMzijB8mpSOjnziEhbXjTuVL6hokfqyI+bHXQ==
 
 react-native-navbar@^2.1.0:
   version "2.1.0"
