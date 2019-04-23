@@ -1,4 +1,4 @@
-import React from "react";
+import react from "react";
 import { NativeRouter, Switch, Route } from "react-router-native";
 import { SafeAreaView, StyleSheet, Text } from "react-native";
 import BookShelf from "../bookstore/src/components/Bookshelf/Bookshelf";
@@ -11,12 +11,11 @@ function App() {
     <SafeAreaView style={styles.container}>
       <NativeRouter>
         <NavBar />
-        <Switch>
+        <BookSearch />
           <Route exact path="/" component={BookSearch} />
-          <Route exact path="/search" component={BookSearch} />
+          {/* <Route exact path="/search" component={BookSearch} /> */}
           {/* <Route exact path="/Bookshelf" component={Bookshelf} /> */}
           {/* <Route path="/book/:id" component={Book} /> */}
-        </Switch>
       </NativeRouter>
     </SafeAreaView>
   );

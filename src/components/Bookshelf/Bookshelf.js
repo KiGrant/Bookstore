@@ -1,6 +1,5 @@
 import React from "react";
 import { View, Text } from "react-native";
-// import { getBookSelf } from "../Baseapi/Baseapi";
 
 // export default class Bookshelf extends Component {
 //   state = {
@@ -23,7 +22,7 @@ import { View, Text } from "react-native";
 //         });
 //       });
 //   };
-//   
+//
 function BookShelf() {
   return (
     <View>

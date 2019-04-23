@@ -1,7 +1,5 @@
-import React from 'react';
-import axios from 'axios';
-
-
+import React from "./node_modules/react";
+import axios from "./node_modules/axios";
 
 const api = "http://localhost:7000";
 

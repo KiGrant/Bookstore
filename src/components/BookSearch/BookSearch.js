@@ -8,12 +8,12 @@ import {
   SafeAreaView,
   Button
 } from "react-native";
-// import {search} from "../Baseapi/Baseapi"
+
 // import { Link } from "react-router-native";
 import SearchBar from "./SearchBar";
+import { getBookSelf } from "../baseApi/baseApi";
 
 const api = "http://localhost:7000";
-
 
 export default class BookSearch extends Component {
   state = {
@@ -24,28 +24,14 @@ export default class BookSearch extends Component {
     isLoading: true,
     allBooks: []
   };
-  componentDidMount() {
-    axios(`${api}/books/search/${newQuery}`)
-      .then(response => {
-        this.setState({
-          allBooks: response.data,
-          isLoading: false,
-          hasError: false
-        });
-      })
-      .catch(() => {
-        this.setState({
-          isLoading: false,
-          hasError: true
-        });
-      });
-  }
-  filterInput = userInput => {
+
+  filterInput = searchInput => {
     const input = searchInput.toLowerCase();
     this.setState({
       searchInput,
-      books: this.state.allBooks.filter(books => {
-        const name = `${user.name.first} ${user.name.last}`;
+      books: this.state.allBooks.filter(book => {
+        const key = `book-${book.id}`;
+        const link = `/book/${book.id}`;
         return name.match(input);
       })
     });
