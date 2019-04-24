@@ -27,3 +27,6 @@ export const updateShelf = (bookId, shelf) => {
   return send(`${api}/bookshelf/update/${bookId}/${shelf}`);
 };
 
+export const search = query => {
+  const newQuery = query.split(" ").join("+");
+return send(`${api}/books/search/${newQuery}`);
